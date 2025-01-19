@@ -1,0 +1,52 @@
+/* Film Detail Pagina */
+.film-detail img {
+    width: 200px;
+    height: 300px;
+}
+
+.stars {
+    font-size: 1.5em;
+}
+
+.yellow {
+    color: gold;
+}
+
+.form-group {
+    margin-bottom: 15px;
+}
+
+#editForm {
+    display: none;
+}
+
+/* Film Upload Pagina */
+.film {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.film img {
+    width: 100px;
+    height: 150px;
+    margin-right: 20px;
+}
+
+.film h3 {
+    margin: 0;
+}
+
+.film .stars {
+    display: inline-block;
+    font-size: 1.5em;
+    cursor: pointer;
+}
+
+.star {
+    cursor: pointer;
+}
+
+.yellow {
+    color: gold;
+}

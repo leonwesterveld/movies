@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "titel": "Inception",
+        "afbeelding": "datkantochanders.jpg",
+        "beschrijving": "ng",
+        "mening": "dth",
+        "rating": "3"
+    },
+    {
+        "id": 2,
+        "titel": "ge",
+        "afbeelding": "datkantochanders.jpg",
+        "beschrijving": "gege",
+        "mening": "gege",
+        "rating": "4"
+    },
+    {
+        "id": 3,
+        "titel": "batman",
+        "afbeelding": "datkantochanders.jpg",
+        "beschrijving": "hhhhhhhhhhhhhhhgggggg",
+        "mening": "hhhhttttttt",
+        "rating": null
+    }
+]
